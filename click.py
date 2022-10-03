@@ -7,4 +7,4 @@ while True:
     mouse.click(Button.left,1)
     print('clicked')
     
-    time.sleep(180)
+    time.sleep(180)  # mouse will click every 3 minute.
